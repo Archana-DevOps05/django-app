@@ -112,7 +112,7 @@ cd cool_counters
 
 ##you can see list and go to {setting.py} file run this command {vi setting.py} then scoroll down and see ALLOWED_HOSTS add in the front of ["*"]
 
-ALLOWED_HOSTS ["*"]
+ALLOWED_HOSTS  ["*"]
 
 # Result
 ![staticwebsite](image2.png)
