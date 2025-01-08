@@ -107,10 +107,20 @@ Now you can access your Django app in the browser at:
 # Result:
 ![staticwebsite](image1.png)
 
-##If you can see this http Allow_host error then you go to cool_counters Directory..
-cd cool_counters
+If you see an HTTP `ALLOWED_HOSTS` error, navigate to the `cool_counters` directory:
 
-##you can see list and go to {setting.py} file run this command {vi setting.py} then scoroll down and see ALLOWED_HOSTS add in the front of ["*"]
+```bash
+cd cool_counters
+```
+
+Then, you can list the contents of the directory to verify:
+
+```bash
+ls
+```
+
+Update the `settings.py` file to add your host to the `ALLOWED_HOSTS` list.
+
 
 ALLOWED_HOSTS  ["*"]
 
