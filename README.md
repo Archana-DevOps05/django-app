@@ -1,6 +1,6 @@
 # Simple Django App
 
-This is a simple, minimal Django app intended to help understand the main aspects of working with Django.
+This is a simple, minimal Django app intended to help understand the main aspects of working with Django using Docker.
 
 ---
 
