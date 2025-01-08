@@ -104,6 +104,9 @@ docker ps
 Now you can access your Django app in the browser at:  
 **http://localhost:8000** or  if you are using AWS EC2 instance you can use their own public ip
 
+# Result:
+![staticwebsite](image1.png)
+
 
 
 
